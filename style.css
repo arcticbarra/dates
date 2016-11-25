@@ -1,0 +1,58 @@
+body {
+  background: url(https://images.unsplash.com/photo-1445366526762-3646e5bf3beb?dpr=2&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=);
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-family: Lato;
+}
+
+html {
+  height: 100%;
+}
+
+h1 {
+  font-size: 5em;
+  font-weight: 700;
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.4), 0px 8px 13px rgba(0,0,0,0.1), 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+h5 {
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.4), 0px 8px 13px rgba(0,0,0,0.1), 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+i {
+  color: rgb(90, 90, 91);
+}
+
+#content {
+  text-align: center;
+  padding-top: 25%;
+}
+
+nav ul a {
+  color: rgb(90, 90, 91);
+}
+
+nav {
+  background: rgb(213, 213, 213);
+}
+
+nav .brand-logo {
+  color: rgb(90, 90, 91);
+}
+
+.btn-large {
+  color: rgb(90, 90, 91);
+  background-color: rgb(213, 213, 213);
+}
+
+.btn-large:hover {
+  color: white;
+  background-color: rgb(60, 60, 60);
+}
+
+hr {
+  width: 400px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
